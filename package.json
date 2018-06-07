@@ -1,0 +1,13 @@
+{
+  "name": "raycaster",
+  "version": "1.0.0",
+  "description": "webgl raycast algorithms",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "repository": "https://github.com/Necolo/raycaster.git",
+  "author": "Necolo Lv.C",
+  "license": "MIT",
+  "dependencies": {
+    "gl-matrix": "^2.6.1"
+  }
+}
